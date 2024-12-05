@@ -1,0 +1,20 @@
+{
+    "apis": [
+      {
+        "id": 1,
+        "name": "api1",
+        "url": "https://fake-json-api.mock.beeceptor.com/users",
+        "method": "GET",
+        "headers": {},
+        "port": 8000
+      },
+      {
+        "id": 2,
+        "name": "api2",
+        "url": "https://dummy-json.mock.beeceptor.com/continents",
+        "method": "GET",
+        "headers": {},
+        "port": 8001
+      }
+    ]
+  }
